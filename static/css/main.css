@@ -395,7 +395,8 @@ li.sn-separator{
 	color: #fff;
 }
 .footer-tmallinfo,.footer-otherlinks{
-	height: 25px;
+	display: block;
+	height: auto;
 	padding: 5px 0;
 	line-height: 25px;
 	color: #fff;
